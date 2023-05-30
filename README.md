@@ -9,15 +9,18 @@ SQL Project Covid.sql
 
 Java
 CJET Booker Project - Program for booking flights utilizing object oriented programming
-Admin.java
-Airline.java
-CJETBooker.java
-CJETBookerRunner.java
-Customer.java
-Flight.java
-Ticket.java
+Admin.java,
+Airline.java,
+CJETBooker.java,
+CJETBookerRunner.java,
+Customer.java,
+Flight.java,
+Ticket.java,
 User.java
 
 Python
 Twitterverse Project - Basic python understanding
 twitterverse_functions.py
+
+Bikes Project - displaying basic python understanding
+bikes.py
