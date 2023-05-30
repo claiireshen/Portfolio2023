@@ -1,7 +1,7 @@
 # Portfolio2023
 Claire Shen's 2023 Portfolio
 
-In this repository are ome projects that show my experience with SQL, Java, and Python.
+In this repository are some projects that show my experience with SQL, Java, and Python.
 
 SQL
 Covid-19 Project - Basic exploration on SQL
