@@ -5,22 +5,21 @@ In this repository are some projects that show my experience with SQL, Java, and
 
 SQL
 Covid-19 Project - Basic exploration on SQL
-SQL Project Covid.sql
 
 Java
 CJET Booker Project - Program for booking flights utilizing object oriented programming
-Admin.java,
+(Admin.java,
 Airline.java,
 CJETBooker.java,
 CJETBookerRunner.java,
 Customer.java,
 Flight.java,
 Ticket.java,
-User.java
+User.java)
 
 Python
 Twitterverse Project - Basic python understanding
-twitterverse_functions.py
+(twitterverse_functions.py)
 
 Bikes Project - displaying basic python understanding
-bikes.py
+(bikes.py)
